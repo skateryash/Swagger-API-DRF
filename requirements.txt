@@ -1,0 +1,9 @@
+django
+djangorestframework
+coverage
+drf-yasg
+setuptools
+pytest 
+pytest-django
+pytest-cov
+python-dotenv
